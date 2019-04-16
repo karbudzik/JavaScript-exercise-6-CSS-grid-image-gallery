@@ -1,10 +1,10 @@
 # JavaScript exercise 6 - CSS Grid image gallery
-> Another practical project while learning JavaScript and modern CSS (this time with special emphasis on Grid and BEM). [Click here to preview](https://karbudzik.github.io/JavaScript-exercise-6-CSS-grid-image-gallery/) 
+> Another practical project while learning JavaScript and modern CSS (this time with special emphasis on Grid and BEM). [Click here to preview](https://karbudzik.github.io/JavaScript-exercise-6-CSS-grid-image-gallery/).
 > Idea and script inspired by [Wes Bos](https://wesbos.com).
 
 ## Screenshots
-![Image_gallery_screenshot]](/screenshots/1.jpg)
-![Opened_image_screenshot]](/screenshots/2.jpg)
+![Image_gallery_screenshot](/screenshots/1.jpg)
+![Opened_image_screenshot](/screenshots/2.jpg)
 
 ## Technologies
 * HTML5.2
